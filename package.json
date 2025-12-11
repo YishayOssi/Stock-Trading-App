@@ -1,0 +1,24 @@
+{
+  "name": "stock-trading-app",
+  "version": "1.0.0",
+  "description": "ישי אוסי\r 211380738\r גליל",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YishayOssi/Stock-Trading-App.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/YishayOssi/Stock-Trading-App/issues"
+  },
+  "homepage": "https://github.com/YishayOssi/Stock-Trading-App#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
